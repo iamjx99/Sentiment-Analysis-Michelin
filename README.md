@@ -8,7 +8,7 @@ The project investigates the relationship between expert recognition and public 
 
 ---
 
-## ## Abstract
+## Abstract
 
 This study explores the relationship between **expert evaluations** from the Michelin Guide and **public sentiment** expressed in online restaurant reviews.  
 While Michelin stars symbolize professional culinary excellence, everyday diners increasingly rely on platforms such as Yelp to share personal experiences and opinions.  
@@ -24,6 +24,9 @@ Topic modeling further highlights that **service quality**, **ambience**, and **
 These insights demonstrate how data-driven sentiment analysis can complement traditional expert evaluation frameworks, offering a more inclusive understanding of consumer experiences in the hospitality industry.
 
 This project showcases practical competence in **data preprocessing**, **machine learning for text**, and **statistical interpretation**, illustrating how academic research can translate into real-world data science applications.
+
+![Sentiment distribution by Michelin category](figures/my-notion-face-customized.png)
+*Figure 1. Michelin-starred and Bib Gourmand restaurants show distinct sentiment distributions in Yelp reviews.*
 
 ---
 
