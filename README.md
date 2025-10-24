@@ -1,10 +1,12 @@
-# Sentiment-Analysis-Michelin
+# Sentiment Analysis of Michelin Restaurants
+### Michelin-Guide Restaurants vs Public Opinion in London
 
+This repository contains the **MSc Data Science dissertation** by **Chun-Cheng Kuo**,  
+conducted at the **University of Sheffield, Information School (Department of Data Science)** in **2024**.
 
+The project investigates the relationship between expert recognition and public sentiment, using Yelp reviews and Michelin ratings to analyze how consumers perceive fine dining and value-for-money experiences.
 
-
-中文簡介請見文末
-
+---
 
 ## 1. Introduction
 The rise of social media and online review platforms has profoundly transformed how consumers make dining decisions.  
