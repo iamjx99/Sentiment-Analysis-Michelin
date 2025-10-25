@@ -7,7 +7,7 @@ conducted at the **University of Sheffield, Information School, Department of Da
 
 The project investigates the relationship between expert recognition and public sentiment, using Yelp reviews and Michelin ratings to analyze how consumers perceive fine dining and value-for-money experiences.
 
-#### 中文摘要請見文末.
+#### [中文摘要請見文末]
 
 ---
 
@@ -70,4 +70,4 @@ Ultimately, this work aims to bridge the gap between **computational text analyt
 ## 8. Technical Stack
 ## 9. References / Citation
 
-## 中文摘要
+## 10. 中文摘要
