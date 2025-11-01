@@ -40,7 +40,7 @@ This project showcases practical competence in **data preprocessing**, **machine
 
 
 
-
+# Project Summary
 ## 1. Introduction
 The rise of social media and online review platforms has profoundly transformed how consumers make dining decisions.  
 Websites such as **Yelp**, **Google Maps**, and **TripAdvisor** enable customers to share detailed experiences about food quality, service, and ambience, making peer-generated content a powerful driver of reputation in the restaurant industry.  
